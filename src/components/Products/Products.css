@@ -1,0 +1,11 @@
+.plist-title {
+    color: blue;
+}
+.plist {
+    display: flex;
+    flex-direction: column;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+}
